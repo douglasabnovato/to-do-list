@@ -1,8 +1,8 @@
-### Lista da Pelada
+# To do list
 
-- criar lista da pelada pelo organizador, pouco antes de iniciar, na ordem de chegada.
+- criar lista pelo organizador
 
-#### Versão Lts
+## Versão Lts
 
 <h1 align="center">
     <img alt="versão 1.0 do projeto" title="#lista-dapelada" src="./.github/tela-versao-lts.jpg">
@@ -44,12 +44,6 @@
 
 - npm install na raiz do projeto
 - npm run dev para rodar localhost na porta 5173
-
-### Tarefas
-
-- [ ] Fazer o upload de imagens e vídeos para registrar as peladas e eventos.
-- [ ] Fazer a lista da pelada e registrar
-- [ ] Exibir os registros com design
 
 [Fonte do projeto](https://app.rocketseat.com.br/discover/course/especializar-react/especializar-react/encerramento-4)
 Fonte do projeto: [Trilha Especializar - Rocketseat Discover](https://www.rocketseat.com.br/) 
