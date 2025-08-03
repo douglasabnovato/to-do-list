@@ -41,7 +41,7 @@ export default function Home() {
   return (
     <div className="container">
       <Header
-        titulo="To do List"
+        titulo="Lista da Pelada"
         organizador={user.name}
         image_url={user.avatar}
       />
